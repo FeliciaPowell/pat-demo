@@ -39,3 +39,14 @@ git push -u origin maingit remote add origin https://github.com/FeliciaPowell/pa
 git branch -M main
 git push -u origin main
 h -M main
+git init
+echo "Hello" > file1.txt
+git add file1.txt
+git commit -m "file1"
+git add .bash_history
+git commit -m "file1
+
+
+
+git commit -m "file1"
+git init
