@@ -50,3 +50,33 @@ git commit -m "file1
 
 git commit -m "file1"
 git init
+echo "Hello" > file1.txt
+git add file1.txt
+git commit -m "file1"
+git status
+git add .bash_history
+git status
+git commit -m "file1"
+git status "file1"
+git config --global credential.helper store
+cat ~/.gitconfig
+git remote add origin https://github.com/FeliciaPowell/pat-demo.git
+git branch -M main
+git push -u origin mainnnnnnnn
+git remote add origin https://github.com/FeliciaPowell/pat-demo.git
+git branch -M main
+git push -u origin main
+git init
+echo "Hello" > file1.txt
+git add file1.txt
+git commit -m "file1"
+git init
+echo "Hello" > file1.txt
+git add file1.txt
+git commit -m "file1"
+git commit .bash_history
+git commit -m "file1"
+git commit "file1"
+git commit "file1.txt"
+git status
+git commit .bash_history
